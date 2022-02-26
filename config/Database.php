@@ -1,8 +1,8 @@
 <?php 
     class Database {
-        private $host = 'localhost';
-        private $db_name = 'world';
-        private $username = 'root';
+        private $host = 'nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+        private $db_name = 'cpb23pb80w70wkw8';
+        private $username = 'optgyp1iqzc076og';
         private $password = getenv('password');
         private $conn;
 
